@@ -2,7 +2,7 @@
 
 
 
-[Link](/fanikauppa/index.html)
-
+[Fanikauppa](/fanikauppa/index.html)
+React:illa tehty fanikauppa projekti
 
 
