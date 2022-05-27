@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fanikauppa/static/css/main.51a74100.chunk.css",
-    "main.js": "/fanikauppa/static/js/main.aa4c1c7b.chunk.js",
-    "main.js.map": "/fanikauppa/static/js/main.aa4c1c7b.chunk.js.map",
+    "main.js": "/fanikauppa/static/js/main.6d67d9c0.chunk.js",
+    "main.js.map": "/fanikauppa/static/js/main.6d67d9c0.chunk.js.map",
     "runtime-main.js": "/fanikauppa/static/js/runtime-main.d7d873bf.js",
     "runtime-main.js.map": "/fanikauppa/static/js/runtime-main.d7d873bf.js.map",
     "static/js/2.39bf3aad.chunk.js": "/fanikauppa/static/js/2.39bf3aad.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d7d873bf.js",
     "static/js/2.39bf3aad.chunk.js",
     "static/css/main.51a74100.chunk.css",
-    "static/js/main.aa4c1c7b.chunk.js"
+    "static/js/main.6d67d9c0.chunk.js"
   ]
 }
