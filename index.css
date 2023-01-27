@@ -173,7 +173,6 @@ header h1 {
   width: 100%;
   border-radius: 1rem;
   background: #333;
-  box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, 0.15);
 }
 
 .container2 {
@@ -249,4 +248,36 @@ header h1 {
 
 #portfolio a {
   color: rgb(255, 255, 255);
+}
+
+#portfolio ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  align-items: stretch;
+  width: 100vw;
+  max-width: 1052px;
+  margin: 0 auto;
+}
+#portfolio li {
+  padding: 0 0.8rem;
+  padding-bottom: 20px;
+}
+
+.projectlist {
+  list-style-type: none;
+}
+
+.project {
+  position: relative;
+  width: 100%;
+  border-radius: 1rem;
+  background: #333;
+}
+
+.projectpicture {
+  position: relative;
+  border-radius: 1rem;
+  width: 100%;
+  background: #333;
 }
